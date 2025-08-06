@@ -734,5 +734,8 @@
       "chosen": "chosen",
       "rejected": "rejected"
     }
+  },
+  "distill_r1_110k_sft": {
+    "file_name": "distill_r1_110k_sft.jsonl"
   }
 }
